@@ -1,0 +1,53 @@
+Sensors:
+
+1) PH sensors
+	- https://www.banggood.com/PH-Value-Data-Detection-and-Acquisition-Sensor-Module-Acidity-and-Alkalinity-Sensor-Monitoring-and-Control-p-1547652.html?rmmds=search&ID=532942&cur_warehouse=CN
+	- 
+2) Light sensivity sensor
+	- https://www.banggood.com/3pcs-TEMT6000-Ambient-Light-Sensor-Module-Visible-Ambient-Light-Intensity-Detection-For-Smart-Home-p-1604855.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/Light-Sensor-Module-Light-Photosensitive-Sensor-Board-Light-Intensity-Sensor-Module-p-1227261.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/BH1750FVI-Digital-Light-Intensity-Sensor-Module-AVR-3V-5V-p-915826.html?rmmds=search&cur_warehouse=CN
+3) Humidity Sensor (Soil)
+	- https://www.banggood.com/5pcs-Capacitive-Soil-Moisture-Sensor-Switch-Not-Easy-To-Corrode-Wide-Voltage-Module-p-1326816.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/5Pcs-Soil-Humidity-Sensor-Hygrometer-Measure-Module-For-AVR-p-1046991.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/Soil-Moisture-Detection-Module-Water-Detect-Corrosion-Resistance-Probe-Sensor-DC3_3V-12V-p-1564977.html?rmmds=search&cur_warehouse=CN
+4) Humidity Sensor (Air)
+	- https://www.banggood.com/DHT22-Temperature-and-Humidity-Sensor-Module-Digital-Sensor-for-Environment-Detecting-p-1660827.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/GY-MCU680V1-BME680-Temperature-Humidity-Pressure-Indoor-Air-Quality-IAQ-Sensor-Module-p-1416437.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/AHT10-High-Precision-Digital-Temperature-and-Humidity-Sensor-Measurement-Module-I2C-Communication-p-1552076.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/AM2302-DHT22-Temperature-And-Humidity-Sensor-Module-p-937403.html?rmmds=search&cur_warehouse=CN
+5) Water temperature
+	- https://www.banggood.com/DS18B20-Temperature-Sensor-Module-Kit-Waterproof-Electronic-Building-Block-p-1027637.html?rmmds=search&cur_warehouse=CN
+	- https://www.banggood.com/5Pcs-Waterproof-NTC-Temperature-Sensor-10K-1-3950-Accuracy-Temperature-Sensing-Probe-p-1108723.html?rmmds=search&cur_warehouse=CN
+6) Temperature
+	- https://www.banggood.com/CCS811-Carbon-Dioxide-CO2-Temperature-And-Humidity-Sensor-VOCs-Air-quality-Monitor-Sensor-Module-p-1416441.html?rmmds=search&cur_warehouse=CN
+	- 
+7) electrical conductivity 
+	- https://www.banggood.com/Analog-TDS-Sensor-Water-Conductivity-Sensor-Tester-Liquid-Detection-Water-Quality-Monitoring-p-1601493.html?rmmds=search&cur_warehouse=CN
+8) Water level sensor
+	- https://www.banggood.com/DC-3V-5V-20mA-Rain-Water-Level-Sensor-Module-Detection-Liquid-Surface-Depth-Height-For-Arduino-p-1578744.html?rmmds=search&cur_warehouse=CN
+
+Actuators
+
+1) Water pump
+	-https://www.banggood.com/Machifit-QR30E-Ultra-quiet-Mini-Brushless-Pump-DC-12V-4_2W-240LH-Flow-Rate-Submersible-Water-Pumps-p-1348609.html?rmmds=search&cur_warehouse=CN
+2) Water tube
+	- https://www.banggood.com/1m-Food-Grade-Translucent-Silicone-Tubing-Hose-With-1mm-To-8mm-Inner-Diameter-p-1377641.html?rmmds=detail-top-buytogether-auto&ID=512358&cur_warehouse=CN
+3) Cooler plate
+	- https://www.banggood.com/TEC1-12706-40x40mm-Thermoelectric-Cooler-Peltier-Plate-Module-12V-60W-p-74295.html?rmmds=detail-top-buytogether-auto&cur_warehouse=CN
+4) Water heater
+	- https://www.banggood.com/50W100W200W300W-Heating-Rod-Submersible-Heater-Quick-Constant-Automatic-Power-Off-p-1372374.html?rmmds=detail-left-hotproducts__3&ID=533313&cur_warehouse=CN
+5) Air pump (da li treba uopste?)
+	- https://www.banggood.com/DC6-12V-R385-Aquarium-Fish-Tank-Round-Water-Air-DC-Diaphragm-Pump-p-1037303.html?rmmds=search&cur_warehouse=CN
+
+Controllers&Wireless modules&Other electonics
+
+1) Arduino Nano
+	- https://www.banggood.com/Geekcreit-ATmega328P-Nano-V3-Controller-Board-Improved-Version-Module-Development-Board-p-940937.html?rmmds=search&cur_warehouse=CN
+2) LoRa module
+	- https://www.banggood.com/Smart-Electronics-SX1278-LoRa-Ra-02-Spread-Spectrum-Wireless-Module-Ultra-Far-10KM-433M-p-1130727.html?rmmds=search&cur_warehouse=CN
+3) Ventilator
+	- https://www.banggood.com/90x90x25mm-12V-4Pin-Computer-PC-CPU-Silent-Cooling-Cooler-Case-Fan-p-975995.html?rmmds=search&cur_warehouse=CN (nesto vece?)
+4) Relay
+	- https://www.banggood.com/5V-8-Channel-Relay-Module-Board-PIC-AVR-DSP-ARM-p-74110.html?rmmds=search&cur_warehouse=CN
+	- 
